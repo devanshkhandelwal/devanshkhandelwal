@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @devanshkhandelwal, im from Delhi, India and currently studying in 11th grade.
-- 👀 I’m interested in coding!
+- 👋 Hi, I’m @devanshkhandelwal, im from Delhi, India and currently studying in 12th grade.
+- 👀 I’m interested in coding, AI and computer science!
 - 🌱 I’m currently learning python :)
 - 💞️ I’m looking to collaborate on exciting projects!
-- 📫 You can reach out to me through Instagram @khandelwal7_ or through Twitter @Utd_Devansh!
 
 <!---
 devanshkhandelwal/devanshkhandelwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
