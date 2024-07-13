@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Web3 and Data Structures & Algorithms**
 
-- 📫 How to reach me **khanded@purdue.edu**
+- 📫 Reach out to me: **khanded@purdue.edu**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1BtrRQPjBlcTTB40lEtykhFNXVi6ItXGi/edit?usp=sharing&ouid=117954607320712449895&rtpof=true&sd=true](https://docs.google.com/document/d/1BtrRQPjBlcTTB40lEtykhFNXVi6ItXGi/edit?usp=sharing&ouid=117954607320712449895&rtpof=true&sd=true)
 
