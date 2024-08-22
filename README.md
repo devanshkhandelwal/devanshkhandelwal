@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Khandelwal</h1>
 <h3 align="center">A passionate full stack developer studying Computer Science and Data Science at Purdue University</h3>
 
-- 🔭 I’m currently working on [SoccerScribe](https://github.com/devanshkhandelwal/soccerScribe)
+- 🔭 I’m currently working on [NutriBuddy](https://github.com/devanshkhandelwal/NutriBuddy)
 
 - 🌱 I’m currently learning **React, Web3 and Data Structures & Algorithms**
 
