@@ -7,8 +7,6 @@
 
 - 📫 Reach out to me: **khanded@purdue.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1BtrRQPjBlcTTB40lEtykhFNXVi6ItXGi/edit?usp=sharing&ouid=117954607320712449895&rtpof=true&sd=true](https://docs.google.com/document/d/1BtrRQPjBlcTTB40lEtykhFNXVi6ItXGi/edit?usp=sharing&ouid=117954607320712449895&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/devansh-khandelwal-31b131213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansh-khandelwal-31b131213/" height="30" width="40" /></a>
