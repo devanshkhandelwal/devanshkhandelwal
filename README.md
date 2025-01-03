@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [NutriBuddy](https://github.com/devanshkhandelwal/NutriBuddy)
 
-- 🌱 I’m currently learning **React, Web3 and Data Structures & Algorithms**
-
 - 📫 Reach out to me: **khanded@purdue.edu**
 
 <h3 align="left">Connect with me:</h3>
