@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Khandelwal</h1>
 <h3 align="center">A passionate full stack developer studying Computer Science and Data Science at Purdue University</h3>
 
-- 🔭 I’m currently working on [NutriBuddy](https://github.com/devanshkhandelwal/NutriBuddy)
+- 🔭 I’m currently grinding leetcode, working on ML skills, and researching in Privacy-Preserving Machine Learning!
 
 - 📫 Reach out to me: **khanded@purdue.edu**
 
