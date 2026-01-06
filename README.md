@@ -18,3 +18,28 @@ Full-Stack Developer • Computer Science @ Purdue University
 ▒░   ░░░▒▓░░ ░░ ░░  ░  ░  ░       ▒░░ ░░░░▒░░░░ ░░░░░
 </pre>
 
+
+
+### GitHub Activity (2024)
+<pre>
+                                                                                                     
+                                                     
+                            ╻┃   ╻                   
+                           ╻░▒╻╻ ░ ╻                 
+ ░                 ░  ▓    ▒░▒░░ ░░░▓  ░  ░   ░    ░░
+
+</pre>
+
+
+### GitHub Activity (2023)
+<pre>
+                                                 ╻     
+                                            ╻  ░     
+               ╻                            ▒  ░     
+               ░                            ▒╽ ░     
+               ░       ░          ░░░░░░  ░░▒▒ ░░▓   
+
+                 
+</pre>
+                    
+
