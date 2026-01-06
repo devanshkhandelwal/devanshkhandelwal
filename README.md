@@ -1,24 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devansh Khandelwal</h1>
 <h3 align="center">A passionate full stack developer studying Computer Science at Purdue University</h3>
 
-- 📫 Reach out to me: **khanded@purdue.edu**
+- 📫 Reach out to me: **devanshkhandelwal07@gmail.com**
 
-
-           ____ _ _   _   _       _     
-          / ___(_) |_| | | |_   _| |__  
-         | |  _| | __| |_| | | | | '_ \ 
-         | |_| | | |_|  _  | |_| | |_) |
-          \____|_|\__|_| |_|\__,_|_.__/ 
-
-          ____  _          _ _            
-         / ___|| | ___   _| (_)_ __   ___ 
-         \___ \| |/ / | | | | | '_ \ / _ \
-          ___) |   <| |_| | | | | | | __/
-         |____/|_|\_\\__, |_|_|_| |_|\___|
-                    |___/
-
-
-                                                     
                                                   ╻  
                                          ╻        ░  
              ╻   ╽                      ╻░      ╻ ▓  
@@ -27,4 +11,4 @@
 ▒░   ░░░▒▓░░ ░░ ░░  ░  ░  ░       ▒░░ ░░░░▒░░░░ ░░░░░
 
                   devanshkhandelwal                  
-                        2025                         
+                        2025                                
