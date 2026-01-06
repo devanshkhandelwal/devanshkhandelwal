@@ -29,7 +29,7 @@
 
 ### GitHub Activity (2023)
 <pre>
-                                                 ╻     
+                                               ╻        
                                             ╻  ░     
                ╻                            ▒  ░     
                ░                            ▒╽ ░     
