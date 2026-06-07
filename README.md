@@ -1,7 +1,7 @@
 <h1 align="center">Devansh Khandelwal</h1>
 <h3 align="center">Full-Stack + ML/AI • CS @ Purdue</h3>
 <p align="center">
-  <a href="mailto:devanshkhandelwal07@gmail.com">devanshkhandelwal07@gmail.com</a>
+  <a href="mailto:devanshkhandelwal.com">devanshkhandelwal.com</a>
 </p>
 
 
