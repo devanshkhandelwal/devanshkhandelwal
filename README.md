@@ -1,7 +1,7 @@
 <h1 align="center">Devansh Khandelwal</h1>
 <h3 align="center">Product & AI • CS @ Purdue</h3>
 <p align="center">
-  <a href="https://devanshkhandelwal.com">devanshkhandelwal.com</a>
+  <a href="mailto:khanded@purdue.edu">khanded@purdue.edu</a>
 </p>
 
 
@@ -40,3 +40,4 @@
 **Live Projects**
 - Nonprofit Website | [iianetwork.org](https://www.iianetwork.org/)
 - AI Interviewer | [talkaboutyourresume.vercel.app](https://talkaboutyourresume.vercel.app/)
+- Personal Website | [devanshkhandelwal.com](https://www.devanshkhandelwal.com/)
