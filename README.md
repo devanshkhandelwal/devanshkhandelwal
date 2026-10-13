@@ -37,6 +37,6 @@
 </pre>
                     
 
-**Projects**
+**Live Projects**
 - Nonprofit Website | [iianetwork.org](https://www.iianetwork.org/)
 - AI Interviewer | [talkaboutyourresume.vercel.app](https://talkaboutyourresume.vercel.app/)
