@@ -37,6 +37,6 @@
 </pre>
                     
 
-Projects:
-https://www.iianetwork.org/ - Non Profit Website
-https://talkaboutyourresume.vercel.app/ - AI Interviewer
+**Projects**
+- Nonprofit Website | [iianetwork.org](https://www.iianetwork.org/)
+- AI Interviewer | [talkaboutyourresume.vercel.app](https://talkaboutyourresume.vercel.app/)
